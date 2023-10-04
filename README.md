@@ -12,7 +12,7 @@ Thanks for checking out my GitHub page! A little about me:
 - 💬 Ask me about computers, video games, or my cat!
 - 😺 My cat's name is Tangy
 - 🖥 My favorite OS to work in is either macOS or Arch Linux
-- 📫 How to reach me: contact@simonxphillips.com
+- 📫 How to reach me: simonxphillips@gmail.com
 - ⚡ Fun fact: I got started in computer science by hacking old Pokémon games
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
