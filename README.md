@@ -1,5 +1,7 @@
 ### Hi there, I'm Simon! 👋
-
+<p align="center">
+    <img alt="contribution snake" width="85%" src="https://raw.githubusercontent.com/1amSimp1e/1amSimp1e/544749532955a2438af7a7934a17731aa0ea1b43/github-contribution-grid-snake.svg" />
+</p>
 <!--
 **tassyguy/tassyguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
