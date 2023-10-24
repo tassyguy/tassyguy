@@ -33,7 +33,7 @@
 - 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/simonxphillips).
 - 🌐 Visit my [website](https://simonxphillips.com).
 - 📜 Download my [resume](https://drive.google.com/file/d/10zoCEWRpc8XblT5ZZE10HWRTkMMMTuu0/view?usp=sharing),
-- 📧 Drop me an email at [simonxphillips@gmail.com](simonxphillips@gmail.com).
+- 📧 Drop me an email at [simonxphillips@gmail.com](mailto:simonxphillips@gmail.com).
 <!-- 🐦 Tweet me [@YourTwitterHandle](https://twitter.com/YourTwitterHandle). -->
 <!--
 **tassyguy/tassyguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
