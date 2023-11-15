@@ -6,8 +6,8 @@
 ## About Me
 
 - 🧔🏻‍♂️ Pronouns: He/Him/His and They/Them/Theirs
-- 🍑 Currently in Atlanta, Georgia
-- 🌏 Originally from Melbourne, Victoria.
+- 🍑 Currently in Atlanta, Georgia, U.S.A.
+- 🌏 Originally from Melbourne, Victoria, Australia.
 - 💾 Started coding through old Pokémon games and game consoles.
 - 🐧 Linux stan, but fluent in macOS and Windows environments too.
 
